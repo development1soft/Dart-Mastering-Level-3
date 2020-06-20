@@ -1,5 +1,17 @@
-import 'package:dart_mastering_course/dart_mastering_course.dart' as dart_mastering_course;
+import 'package:http/http.dart';
 
-void main(List<String> arguments) {
-  print('Hello world: ${dart_mastering_course.calculate()}!');
+main() async{
+
+  Future<String> getData() async{
+    return await Future.delayed(Duration(seconds: 5),(){
+      return 'Welcome Dart';
+    });
+  }
+
+  await getData().then((value){
+    print(value);
+  });
+
+  print('welcome');
+
 }
