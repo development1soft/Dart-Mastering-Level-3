@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d6670900-2d4b-4340-b4a3-23f7f11fab0a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dart-mastering-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dart-mastering-course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/dart_mastering_course.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dart_mastering_course_test.dart" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +55,8 @@
       <workItem from="1592636945844" duration="10000" />
       <workItem from="1592643154194" duration="56000" />
       <workItem from="1592643231940" duration="3812000" />
-      <workItem from="1592647727822" duration="313000" />
+      <workItem from="1592647727822" duration="690000" />
+      <workItem from="1592856107410" duration="771000" />
     </task>
     <servers />
   </component>
@@ -68,25 +64,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1592647367252">
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1592858632434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592647367252" />
-    <state width="1493" height="190" key="GridCell.Tab.0.center" timestamp="1592647367252">
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592858632434" />
+    <state width="1493" height="190" key="GridCell.Tab.0.center" timestamp="1592858632434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592647367252" />
-    <state width="1493" height="190" key="GridCell.Tab.0.left" timestamp="1592647367252">
+    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592858632434" />
+    <state width="1493" height="190" key="GridCell.Tab.0.left" timestamp="1592858632433">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592647367252" />
-    <state width="1493" height="190" key="GridCell.Tab.0.right" timestamp="1592647367252">
+    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592858632433" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right" timestamp="1592858632434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592647367252" />
-    <state x="444" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1592647729175">
+    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592858632434" />
+    <state x="444" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1592856146542">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="444" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592647729175" />
+    <state x="444" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592856146542" />
   </component>
 </project>
